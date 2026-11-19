@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SwampBlog.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
